@@ -3,13 +3,6 @@
 ## 📌 Descripción
 Este proyecto realiza un análisis exploratorio de datos (EDA) sobre las tendencias de contratación y habilidades demandadas en el sector IT. La finalidad es proporcionar insights clave para profesionales y empresas del sector, con el objetivo de optimizar estrategias de empleo y formación.
 
-## 📂 Estructura del Proyecto
-```
-📂 proyecto
-│── 📁 data                  # Conjunto de datos utilizados
-│── 📄 README.md             # Documentación del proyecto
-```
-
 ## 🚀 Tecnologías Utilizadas
 - Python 🐍
 - Pandas 🐼
